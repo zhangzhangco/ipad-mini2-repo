@@ -1,0 +1,31 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Origin: zhangzhangco-ipad-repo
+Label: iPad mini 2 Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm64
+Components: main
+Description: Local packages for iPad mini 2 second display
+ 0d23139a612154641393bf706da29162 1071 Packages
+ 347af859735b61038c67f434dd128f7ae750138b 1071 Packages
+ d52ef660b27c22fe3fffe5b5ef77cfe2acc2ab14ebbe266babf5153d704499f8 1071 Packages
+ d2cef1c614e15d133bccc8125cc3c0f0 654 Packages.gz
+ 1fd6185000edeea37f3758cd323f04f3ed570747 654 Packages.gz
+ 1016499e20cfed62eb168570abf8c7f560ce5033b99864625168964dc7030758 654 Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCAAdFiEE4lA2UYoWcWlZghww8dIlbEbDVdoFAmqrSQkACgkQ8dIlbEbD
+Vdr/8Qv/Q3I0eU0IHjNv7f6Dtf20gQasooiyTcXS6m2IHPJxQ3qeRMI8NWcDVmQ5
+1BPI1slRuOqbtcXRCn0PQVXc1jz4Vx4svrEeruw93CaJgnYXh8r/Pah/HtaDxxny
+oCHEEdREsw7MXY9uuzp9tVPXMJ7nc72Ry0C1Tazukb8ijVM4kvW8UTIfr4KqBsFY
+BJ7W4vudHr5eMdbzL0SnRi2Asv0pKaMjqDfxNsk+Zd/sO+1cZpJnKiripVZsUduS
+U3LMMGwNLHHZPF6RbmvJa0gVXFOvLxwgCyCebfjITtLfdMl4Sr0iFV/0FRBYYqIC
+tAQN2SYLdfBUNtv9Dkduuhvn6kl7KhHqfdngZg01Q/pWaXWF6V7TePMlE0HOmjhz
+Uuty4MYhRjOB425Ahy+i6FfBoZ8Y/MPa3dk7Bk/Jxx2buRzpbS9ed7gqDE7G4S3z
+E5fYRPDdx+YU6CksPusmCe+hzh861Hp16gdy8x8C9IqoafhtaHPRPjWaLlJCkhBe
+PDoYHIqE
+=qMIF
+-----END PGP SIGNATURE-----
