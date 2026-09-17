@@ -1,28 +1,28 @@
 Package: ai.akemi.appsyncunified
 Name: AppSync Unified
 Version: 116.0
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Description: Enables the ability to install unsigned/fakesigned iOS applications.
 Maintainer: Karen/あけみ <karen@akemi.ai>
 Section: Tweaks
 Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 18.2)
-Installed-Size: 668
-Filename: debs/appsyncunified-arm64.deb
-Size: 49472
-MD5sum: d6a31911e878b83e47c6525fa29ecef1
-SHA1: d00d2667c0d5421dddfc70a2734f1d63b972a535
-SHA256: 2bdaac72a6d1b006309b7dd28f51b1e3d351d3d8758fc9f08ca670f1d71eb382
+Installed-Size: 636
+Filename: debs/appsyncunified-arm.deb
+Size: 51658
+MD5sum: 536009a11dad57e48a5563224eaffaff
+SHA1: e0fa412cb3c26718887edd834804c88909297079
+SHA256: 0036f28fcbdb165d4f58968a237ca9fe7b6ed33fea25b9a5eb1fc141f6bf5a09
 
 Package: com.example.legacypaddisplay
 Name: LegacyPadDisplay
 Version: 0.1.0-1
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Description: iOS 12 second-monitor client for OpenDisplay (installs to /Applications, no signing)
 Maintainer: zhangxin
 Section: Applications
 Installed-Size: 40164
-Filename: debs/com.example.legacypaddisplay_0.1.0-1_iphoneos-arm64.deb
-Size: 17608784
-MD5sum: 81a40e13a0d63c59f8d2e4edb1188e18
-SHA1: 68509b6ad247be013146130e4dd71b6e181020c7
-SHA256: 88b19653cb1d0e5559ed55a9a51e7c6fc73553a3db01970d9a37c19ece33c25a
+Filename: debs/com.example.legacypaddisplay_0.1.0-1_iphoneos-arm.deb
+Size: 17608822
+MD5sum: bf20d86994b7ed997e3e93dec0a38fad
+SHA1: ca6f58802e34015b45ff7a7cf0d4d7dcd5398f56
+SHA256: 33676de269e69c6168a32b94011eb7a6787383bb84d063e2048322800121566a
