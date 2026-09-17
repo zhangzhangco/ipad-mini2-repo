@@ -1,13 +1,13 @@
 Package: com.example.legacypaddisplay
 Name: LegacyPadDisplay
-Version: 0.1.0-1
+Version: 0.1.0-2
 Architecture: iphoneos-arm
 Description: iOS 12 second-monitor client for OpenDisplay (installs to /Applications, no signing)
 Maintainer: zhangxin
 Section: Applications
 Installed-Size: 1368
-Filename: debs/com.example.legacypaddisplay_0.1.0-1_iphoneos-arm.deb
+Filename: debs/com.example.legacypaddisplay_0.1.0-2_iphoneos-arm.deb
 Size: 1176184
-MD5sum: 912e83fbb4bd5b871393c1cd9080ac00
-SHA1: c04d5cc0c44ad0e4025054e8b86dec3bf039e832
-SHA256: fb7526e91d07c4859a3fd6aa1d120a8f0a18e6253fff51610e688005d92c1b19
+MD5sum: 9788def48eac3bb66b0e4aef31193414
+SHA1: 216825b3e6b12274ef8eb803cdfcbaa031db457a
+SHA256: 6c682db3d03e98c721b30e04b739e6c4738086a504727a1333d8529d89b4338e
