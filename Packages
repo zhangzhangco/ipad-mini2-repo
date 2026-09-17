@@ -5,9 +5,9 @@ Architecture: iphoneos-arm
 Description: iOS 12 second-monitor client for OpenDisplay (installs to /Applications, no signing)
 Maintainer: zhangxin
 Section: Applications
-Installed-Size: 40164
+Installed-Size: 1368
 Filename: debs/com.example.legacypaddisplay_0.1.0-1_iphoneos-arm.deb
-Size: 17608822
-MD5sum: bf20d86994b7ed997e3e93dec0a38fad
-SHA1: ca6f58802e34015b45ff7a7cf0d4d7dcd5398f56
-SHA256: 33676de269e69c6168a32b94011eb7a6787383bb84d063e2048322800121566a
+Size: 1176184
+MD5sum: 912e83fbb4bd5b871393c1cd9080ac00
+SHA1: c04d5cc0c44ad0e4025054e8b86dec3bf039e832
+SHA256: fb7526e91d07c4859a3fd6aa1d120a8f0a18e6253fff51610e688005d92c1b19
