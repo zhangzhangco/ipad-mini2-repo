@@ -6,26 +6,30 @@ Label: iPad mini 2 Repo
 Suite: stable
 Version: 1.0
 Codename: ios
+Date: Fri, 18 Sep 2026 13:48:36 UTC
 Architectures: iphoneos-arm
 Components: main
 Description: Local packages for iPad mini 2 second display
+MD5Sum:
  ad9a3f1caede01ff9e1cca740a7f86af 1540 Packages
+ b01b135a700fbc79c5ea1f302891373f 855 Packages.gz
+SHA1:
  a2c4fc92ffaabc9c92e019a054f5adc776645b03 1540 Packages
+ aceb32bbaeb9fca4356fa6cbf251fc991b396cae 855 Packages.gz
+SHA256:
  f1a0f0885a37ab68715e57aace3df5af5e6274e36f40c92fb3b6a7417d56a9cb 1540 Packages
- 444a029c1003724002100065ee4f7645 855 Packages.gz
- 59f12dd7e3071bf979e9d674df68e727a90bf541 855 Packages.gz
- c2caa72756ae4423b79a56c60b3dc52791c9e3da295dfedfbbc6e6434d857d22 855 Packages.gz
+ 45da995b31e64ed8d502f45e1a67ffa9d720c5fb194abc4f17964ff09648f660 855 Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCAAdFiEE4lA2UYoWcWlZghww8dIlbEbDVdoFAmqtPgkACgkQ8dIlbEbD
-VdqEOwwAt/UmOSRRT20E7mkkhW9tAaIfANAo2l7X3trp77MfPyxlCavfzSTDXVgA
-o/OjEQz1lEObDwD8Sc7tySMrbqNQbTZTW4aIduGiWPk+LWPyZSaT2TNGvueIXwn6
-Z/+RmaI6Z5V9LjMCHTTf51N4UmGRfwsnGItu/qc0azxaclMEy+2+KfKm5ckKglLc
-D42I6IwIMNS0vVV6miCdg3R8xl5HgwuHIYFcYEFCWWLE9dj7Yqj91TAHpoDjAztD
-o8DjXviIGZy6M+LwMKC3jG1Yj2TXvRR+V/9vMan57w7S+Rdo27K4SUBE9/qHECPA
-PjkvCmFnsWJC3lCOsjEbCf0LPlV0CyktleprNB2ajBc9hi1JijPDjK0+EApCIex5
-iyaJ+V8g+w+cQOzmaTbe/iREc9b9MGQwGQyYcdDdrG1gz8deUxYsGbVqlFCxfPT8
-RQnL539x7oMy/mDJfzaWRVCcBcT2ILhZMwRkow/XUJADCKPVaycInEjCMlV6QkG6
-7zFmo7Nw
-=wW0b
+iQGzBAEBCAAdFiEE4lA2UYoWcWlZghww8dIlbEbDVdoFAmqtQTcACgkQ8dIlbEbD
+VdpvFgwAohY0xFJ3FyEOTxoFV9Bpplh7JG00ocfpiOh5dSsH/wUs7NEG3h1o5h/N
+RbsNgBs12tCTX8/IQTKSlF5/0fd3Z/ydAc/b0wjXib3lLRBYhRDzv/p7gUxQQ1j7
+4gI+yKCy811qT2lnQV16iY0vodz9cxiohc87Pa01VIMi4AIr0HJtqC46Zfy8O398
+XST1mHI9lNVic7NTR/JJlcDMkEI7BogP3RHKvlSo8xVppu/g0QRtmnSsf4S2kZnC
+ayMsl4faych4uP2pym4moHnsL2vRNQpyBLf1pHr2B8K+vJktP8pJTuHMG/rPSb/n
+b69kWDWogg9Ng8Idw9a915r+xWbs7e8TdP6XN47svABbKAr6pc2HzufkZf/TIEEw
+qKqwe9kCCxDI1RzaDmyXITv0LFxNaLdWmc4wGp+NQUpOuLhj83/jYrYDKfRvIObE
+rFqMYd5BuPks553meWOyw3FoDOToaCfyDYdl+aFVxhpq3EGDicD5d9iXK3D6U4DZ
+VK7ss1jB
+=T0Bq
 -----END PGP SIGNATURE-----
