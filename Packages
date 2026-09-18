@@ -6,6 +6,11 @@ Description: iOS 12 second-monitor client for OpenDisplay (installs to /Applicat
 Maintainer: zhangxin
 Section: Applications
 Installed-Size: 1368
+Filename: debs/com.example.legacypaddisplay_0.1.0-4_iphoneos-arm.deb
+Size: 1161140
+MD5sum: 6752bfbc6c1ed913f7214cda87b23732
+SHA1: 02968668c923bd446af4e1d42e9a42f569e0150b
+SHA256: 4eb98d6f6d73a1dec5abd0be8a611f8eb91fa20254b77882aa1ff2a192558056
 
 Package: com.zhangzhangco.minigames
 Name: MiniGames
@@ -17,4 +22,8 @@ Author: zhangzhangco
 Section: Applications
 Depends: firmware (>= 12.0)
 Installed-Size: 140
-
+Filename: debs/com.zhangzhangco.minigames_1.0.0_iphoneos-arm.deb
+Size: 32058
+MD5sum: 208c91e3e4526a1058d21dfefc796cd9
+SHA1: 935452a13199a10734a9885e65879d1136c4bd8f
+SHA256: 3c159b2fa2da589331f36d82ac777a271bc7858902b3abc42bd4af32e888714e
