@@ -14,16 +14,16 @@ SHA256: 4eb98d6f6d73a1dec5abd0be8a611f8eb91fa20254b77882aa1ff2a192558056
 
 Package: com.zhangzhangco.llmchat
 Name: 智聊
-Version: 1.6.0
+Version: 1.7.0
 Architecture: iphoneos-arm
 Description: OpenAI-compatible LLM chat client for iPad on iOS 12. Streaming text replies plus system speech-to-text input.
 Maintainer: zhangzhangco
 Section: Utilities
-Filename: debs/com.zhangzhangco.llmchat_1.6.0_iphoneos-arm.deb
-Size: 96524
-MD5sum: 988cf5e908a1b55e70681e593c26859f
-SHA1: ebb378e8f996ad9ad1c4f49127c0dae6272c7197
-SHA256: 3b655250aba3849862c2485a137de538dd31c5b918aecac9fbf74a8c48eb8002
+Filename: debs/com.zhangzhangco.llmchat_1.7.0_iphoneos-arm.deb
+Size: 102012
+MD5sum: e441dc59f21f76f77dc3bf5ec4378263
+SHA1: 7e59b2869aa2ef86f304b00d611464eb31ab22b3
+SHA256: 77914b53fa2084b0d2dfa6ca84461c0e3c4928c98600eb062adb62d20aca67dc
 
 Package: com.zhangzhangco.minigames
 Name: MiniGames
