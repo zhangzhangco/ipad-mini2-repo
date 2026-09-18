@@ -20,10 +20,10 @@ Description: OpenAI-compatible LLM chat client for iPad on iOS 12. Streaming tex
 Maintainer: zhangzhangco
 Section: Utilities
 Filename: debs/com.zhangzhangco.llmchat_1.4.0_iphoneos-arm.deb
-Size: 67168
-MD5sum: b1ba33e0d591a284941d5182852c064f
-SHA1: 6c17b1094c5c6fe99328a40958d7dc8282375d34
-SHA256: f6e047acc2997bcff27825af3f0d74edd4fb0a75d6b247ff5e7ee7f05607e934
+Size: 89292
+MD5sum: 8072521723794fa55858e9550f542ed5
+SHA1: 76f0ecc803e31a47661b9b763c28dca65f456f8e
+SHA256: aa2c112253ac15dbdca3be0bcb7c93a5314974e40d261b3d2ff8554a650eacfb
 
 Package: com.zhangzhangco.minigames
 Name: MiniGames
