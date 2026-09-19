@@ -49,7 +49,7 @@ Maintainer: zhangzhangco
 Section: Applications
 Installed-Size: 5368
 Filename: debs/com.zhangzhangco.pocketturbo_0.1.0_iphoneos-arm.deb
-Size: 651772
-MD5sum: 498bb0a7ff50a0dcd3e34b52fb11ccf2
-SHA1: dab95ebfbb6fa771f28b0341915055ccf6fd82d9
-SHA256: d588e4bc370b6db5b9c717585fdd9a855d196fdd15e167345bb96617528df22b
+Size: 653476
+MD5sum: cf46cb0963f70e5c9cd65fa51742a82b
+SHA1: 12c16dca24017a28fe2605c6895a8b1300c2fa46
+SHA256: 8dc42ef43aaa61c0f0613c992a7610b92a8b9a6717810eb9fd4ae36fd33ebfdb
