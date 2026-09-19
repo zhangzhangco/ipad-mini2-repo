@@ -3,16 +3,16 @@ Label: iPad mini 2 Repo
 Suite: stable
 Version: 1.0
 Codename: ios
-Date: Sat, 19 Sep 2026 05:57:40 UTC
+Date: Sat, 19 Sep 2026 06:00:22 UTC
 Architectures: iphoneos-arm
 Components: main
 Description: Local packages for iPad mini 2 second display
 MD5Sum:
- c5aab906a2a0b9135b49594bef3f5126 2160 Packages
- ee9a64e081a5498225059d42e8a4d30a 1150 Packages.gz
+ 2d91362dee80cfb19cc43339cc0fff3f 2751 Packages
+ 73f762b6fc8c71617e3c658b0911b48a 1285 Packages.gz
 SHA1:
- 3612037781f5a2dd0c65ca2fa3e1f1e04c3d0b1b 2160 Packages
- 78cad62ce5862ce4ef7768fe67334843d92109f0 1150 Packages.gz
+ 911b86da0fb14c80203126a20e7217ea62840d8a 2751 Packages
+ f4b0394696c3bb2eeff8a18d5ac3e4aa8e9c822d 1285 Packages.gz
 SHA256:
- 96f3e810f87ed761155f9d52b87e75dc020811ffd3426486188175f8d9d93fda 2160 Packages
- c91774c4dc8b0923b03443d98c3388351fecf7bd4350891e7289b1612724355c 1150 Packages.gz
+ b3e2916f6e37c91e3447607a0634ac61293172254a1be89239ff5443c427c9c6 2751 Packages
+ a370e010ab8b788a38584f57d734417073cd77bd874a001d6f4c34f506dd1aa2 1285 Packages.gz

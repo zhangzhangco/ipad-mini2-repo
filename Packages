@@ -40,6 +40,20 @@ MD5sum: 208c91e3e4526a1058d21dfefc796cd9
 SHA1: 935452a13199a10734a9885e65879d1136c4bd8f
 SHA256: 3c159b2fa2da589331f36d82ac777a271bc7858902b3abc42bd4af32e888714e
 
+Package: com.zhangzhangco.pocketturbo
+Name: 口袋赛车王国
+Version: 0.1.0
+Architecture: iphoneos-arm
+Description: Pocket Turbo Kingdom —— iPad mini 2 (iOS 12) 原生赛车客户端。ObjC + SceneKit 薄客户端，局域网 WebSocket 连服务器，渲染 20Hz snapshot。
+Maintainer: zhangzhangco
+Section: Applications
+Installed-Size: 5348
+Filename: debs/com.zhangzhangco.pocketturbo_0.1.0_iphoneos-arm.deb
+Size: 647548
+MD5sum: 2592de9314c17a02ce9022dc1e2abc5b
+SHA1: 87422def1bf6dae54417ced4fb6bfae440464f78
+SHA256: 16e6eefce44ed3c7c35d3a90d04f4a2eeb5198a09eda26ee3e15e8eb6f0fca85
+
 Package: com.zhangzhangco.ptkhello
 Name: Pocket Turbo Hello
 Version: 0.1.0
