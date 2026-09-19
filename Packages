@@ -47,9 +47,9 @@ Architecture: iphoneos-arm
 Description: Pocket Turbo Kingdom —— iPad mini 2 (iOS 12) 原生赛车客户端。ObjC + SceneKit 薄客户端，局域网 WebSocket 连服务器，渲染 20Hz snapshot。
 Maintainer: zhangzhangco
 Section: Applications
-Installed-Size: 5348
+Installed-Size: 5368
 Filename: debs/com.zhangzhangco.pocketturbo_0.1.0_iphoneos-arm.deb
-Size: 649748
-MD5sum: 45d7a2c664fbfe17dec346e5a57e6180
-SHA1: e41c88a86032e63a6add2930fd2820069c856844
-SHA256: a5308f5370700336a9fe131bd1a54dbe5d419b124643bf0675af17a504fc543b
+Size: 651772
+MD5sum: 498bb0a7ff50a0dcd3e34b52fb11ccf2
+SHA1: dab95ebfbb6fa771f28b0341915055ccf6fd82d9
+SHA256: d588e4bc370b6db5b9c717585fdd9a855d196fdd15e167345bb96617528df22b
