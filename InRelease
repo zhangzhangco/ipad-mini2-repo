@@ -6,30 +6,30 @@ Label: iPad mini 2 Repo
 Suite: stable
 Version: 1.0
 Codename: ios
-Date: Fri, 18 Sep 2026 14:01:38 UTC
+Date: Sat, 19 Sep 2026 05:12:23 UTC
 Architectures: iphoneos-arm
 Components: main
 Description: Local packages for iPad mini 2 second display
 MD5Sum:
- b09b42b8630b1950d05a59675877a201 1541 Packages
- abdddd64ce76905c84b26bb381385f1f 857 Packages.gz
+ fde005b53b048e3bc9f5b06ac1a33845 1575 Packages
+ 1f938fff2cbc1f3281c8c05a3adb810d 873 Packages.gz
 SHA1:
- 9a3cf185157c0a3bf6e11b25a1ade5d58cc6a8d5 1541 Packages
- 6f9ca57591a03b7a9b3126a384548a704cee97b7 857 Packages.gz
+ 89b9e7dd8ca21e15cadb16956ff3fba071608c82 1575 Packages
+ 93cc3ba67f753bd5c4c87d3066831d716ef3dd0a 873 Packages.gz
 SHA256:
- 1b68614ad22207f13095c03ea63ee64a0d1423ee9bb76c7580f9d25ba0bbd1f0 1541 Packages
- 0cc6f45aa86fdcd1f833a0c00e7f7ccd289cbb13882b0d61acb813cbf6eadc1f 857 Packages.gz
+ aba507bcb98fcdac2ac1077c51757b89be79aa153336a3b8e3f77066c4ad0297 1575 Packages
+ f6cce557c5bb3cbe8f30b75ce9d5c73d8627dcd5a40e530cff4498716b073616 873 Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCAAdFiEE4lA2UYoWcWlZghww8dIlbEbDVdoFAmqtREMACgkQ8dIlbEbD
-VdqG/gv+KBfRLP7tGLxrzzwkFeuPM4CeEfmSgEgJ950PlHM7O+z2W8I4xVURPbYE
-YgvwlqPxnEXwEdlrEbz//8dR0f4GEjh/1AaZWOElahkzLBLGDFJ28e8YKBWbuG+O
-yUnqzF+YW6di8OQHnZNBDs0QFWP79a99K7unSTiq46j8xzwXv/kt/mUsZPqeANeY
-QG9p+p8LYH58Ab70SgDw+7NvFbpTtly58YzVVJ1ILWs0glKCRo0wTeMkEO50ltgv
-zy5yKcMtKHJKARqEHHnRs6psTnSr4IhlS7u63tYioVZzCE8AN3pjrQBBdhmXHcV2
-S2AVZtL6ka3fnX69tdn0XrzM16n/XM22Np+k+wxa1sQYZyq3iYdnk7AniMsjhjVn
-hupwBYxBU2V6FNh1aqCNq+732jjZHwhhfpgBXutw3/pe8+7fMojOdSXJv3HrlIEj
-Ochjl4YA1lnhbHbcbiI6PCFlY77UFiZXFtQk8EJjheWjVKGrT/Ilpcc0bvXrQFhz
-VSH+6tYh
-=2P9B
+iQGzBAEBCAAdFiEE4lA2UYoWcWlZghww8dIlbEbDVdoFAmquGbgACgkQ8dIlbEbD
+VdqLewwAlMQeoE4PGu2McgDc3YMQTCWb1bivP19pzZrq+RdwHfhAxsM7gkFxm4yW
+KtOrKJwZZpuJJmTEt+8eDaG56AYGwi5nrbxNkjyvdCF7NBnbPE7nqePejWyzujow
+RNAn43kqBRpR+aoFcAZ03MrhZyAIDILw9Ay/2BEOQaQ1Kp7GSyMH5EkOL+3MuisE
+yBaL05N+q8lT1cyhdbz84atW5MQMhPQMwNwytcgvGwdufICj1hXjn/UDG8ubwGKp
+tGjo4snktOf0e7Lfv9BfrnAYsLpjst/ejeWYe2fFSgEiUNQr3WInssYATnAK35f3
+goqPsYHtrSYw7cd1xo0gzEq898E30TIONmmaXzcoJ52GztqgS0q9NI0bvlhxJUm0
+rRAPDS4zoLJHZ5l61ccNGWhcIK5DbloOS10cPPtPd/eHUoaWhHtSthmmQ0O96rkP
+17K8HPMzRZJIANiS7EkUIZy5QSEIV8dVYJuimrrNWdsEKDf6+mB9nGj3BjhsQtbH
+4C0P27OY
+=QOnm
 -----END PGP SIGNATURE-----
